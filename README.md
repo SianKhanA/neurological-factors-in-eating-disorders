@@ -24,3 +24,6 @@ The dataset consists of 550 observations and 57 features, categorized into:
 * Python (Pandas, NumPy)
 * Scikit-Learn (ElasticNetCV, PolynomialFeatures, StandardScaler)
 * Matplotlib & Seaborn (Data Visualization)
+
+## Conclusion
+* While the Medical Insurance project showed high predictability based on physical factors like BMI and Smoking, this project highlights the complexity of behavioral health, where demographics play a much smaller role than cognitive and emotional habits
